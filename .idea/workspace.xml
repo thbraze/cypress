@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73fae377-8c98-447b-941c-f888119abb28" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cypress/integration/sample_spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/sample_spec.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +59,8 @@
       <updated>1573566266537</updated>
       <workItem from="1573566268081" duration="4046000" />
       <workItem from="1573641901288" duration="713000" />
-      <workItem from="1573645392496" duration="321000" />
+      <workItem from="1573645392496" duration="666000" />
+      <workItem from="1573646083837" duration="172000" />
     </task>
     <servers />
   </component>
