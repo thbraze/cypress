@@ -1,8 +1,13 @@
 
-describe('My First Test', function() {
-    it('Test something', function() {
+context('Truc',() =>{
+    beforeEach(()=>{
         cy.visit('https://example.cypress.io');
-        cy.log("url visited").debug();
+        cy.log("url visited")
+
+
+    })
+
+    it('Test something', () => {
 
         cy.contains('type').click();
         cy.log("type clicked").debug();
@@ -15,4 +20,6 @@ describe('My First Test', function() {
             .should('have.value', 'fake@email.com');
         cy.log("value is well prompted").debug();
     });
-});
+})
+
+
